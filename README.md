@@ -195,11 +195,10 @@ This donation contract serves as a foundation for transparent fundraising. Devel
 **Language:** Clarity
 **Status:** ✅ Active
 
-*Replace with your actual deployment details:*
 ```
-Deployed Contract Address: ST1P3KSBSBZBBV8KDRQ7WZNGASWAE2BKJVN1SXP0T
-Deployment Transaction: 0xb0abefa4ea2b01a397c1a22a762bebb6be088f2d77bdbfc3eca65c5cf4f0c0c5
-Contract: ST1P3KSBSBZBBV8KDRQ7WZNGASWAE2BKJVN1SXP0T.donation
+Deployed Contract Address: ST1PMN9CZ1WBSW9DQJ4QKDTJJ2BTAHRCR7R5M9G97
+Deployment Transaction: 0xf0958e565c3de790322bc9794161ae47ff7bb5ff93de3645c8e70820578a2b5c
+Contract: ST1PMN9CZ1WBSW9DQJ4QKDTJJ2BTAHRCR7R5M9G97.donation
 ```
 
 ---
