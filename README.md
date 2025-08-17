@@ -212,4 +212,5 @@ For questions, support, or collaboration opportunities:
 
 ---
 
-<img width="957" height="887" alt="{E3CE07AC-0909-463C-9B36-2B7F16A1382C}" src="https://github.com/user-attachments/assets/09c894d6-3242-4f74-9e0e-c8d7b877dc1e" />
+<img width="936" height="772" alt="{6E484DBA-C3A8-41C5-818A-E1BD2AB57DAF}" src="https://github.com/user-attachments/assets/2538587f-2bd5-469e-9c11-663876848bb7" />
+
